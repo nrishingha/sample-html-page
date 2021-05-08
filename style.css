@@ -1,0 +1,63 @@
+header {
+    text-align: center;
+    padding-bottom: 10px;
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(149, 139, 139);
+}
+
+header h1 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: 0.2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+header h3 {
+    font-weight: 400;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.quotations {
+    background-color: rgb(214, 209, 209);
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    margin: 5px 0px 5px 0px;
+}
+
+.quotations p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.quotations p b {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+article {
+    margin: 5px;
+    padding: 5px;
+}
+
+article ul li p i {
+    text-align: left;
+}
+
+#pageNum {
+    text-align: center;
+}
+
+#firstletter {
+    font-size: 50px;
+    font-weight: 400;
+    font-family: cursive;
+}
+#firstLine {
+    display: inline;
+}
